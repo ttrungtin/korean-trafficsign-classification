@@ -1,0 +1,2 @@
+model_checkpoint_path: "LaNet"
+all_model_checkpoint_paths: "LaNet"
